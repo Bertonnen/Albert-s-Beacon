@@ -3,7 +3,7 @@
 Albert's Beacon es un **dashboard interactivo** desarrollado con [Streamlit](https://streamlit.io/) que combina información de **criptomonedas, acciones, clima y noticias** en una sola aplicación.  
 La app incluye **soporte multi-idioma (español/inglés)** y se integra con diversas APIs públicas y privadas.
 
-📄 En mi [LinkedIn](https://www.linkedin.com/in/tuusuario/) tienes un artículo dedicado a este pequeño proyecto.
+📄 En mi [LinkedIn](https://www.linkedin.com/in/alberto-ortiz-fernandez/) tienes un [artículo](https://www.linkedin.com/pulse/abras-20-pesta%C3%B1as-en-tu-navegador-haz-esto-alberto-ortiz-fern%C3%A1ndez-dbaxf/?trackingId=vuQNwsboKdWnG0e0ROYgZg%3D%3D) dedicado a este pequeño proyecto.
 
 ---
 
