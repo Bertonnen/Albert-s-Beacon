@@ -39,3 +39,42 @@ Obtén la temperatura, humedad, viento y otros parámetros de climatología en c
 📰 Noticias actualizadas
 ![Streamlit-GoogleChrome2025-08-2811-44-57-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b0310d16-f711-40d4-b831-de5162cd5559)
 Accede a noticias nacionales e internacionales filtradas por idioma, región y categoría.
+
+
+## Instrucciones
+Instrucciones para ejecutar Albert’s Beacon
+
+Sigue estos pasos para poner en marcha la aplicación en tu ordenador:
+
+1. Descargar el proyecto
+   - Haz clic en el botón verde Code y selecciona Download ZIP.
+   - Extrae el archivo ZIP en una carpeta de tu ordenador.
+
+2. Instalar Python (si no lo tienes ya)
+   - Asegúrate de tener instalado Python 3.9 o superior.
+
+3. Abrir una terminal en la carpeta del proyecto
+   - En Windows: abre la carpeta donde descomprimiste el proyecto, mantén pulsada la tecla Shift, haz clic derecho y selecciona "Abrir ventana de PowerShell aquí" (o Terminal).
+   - En Mac/Linux: abre la Terminal y navega hasta la carpeta con cd ruta/del/proyecto.
+
+4. Crear un entorno virtual (opcional, pero recomendable)
+   - En Windows:
+     python -m venv venv
+     venv\Scripts\activate
+
+   - En Mac/Linux:
+     python3 -m venv venv
+     source venv/bin/activate
+
+5. Instalar las dependencias necesarias
+   - Dentro de la terminal, escribe:
+     pip install -r requirements.txt
+
+6. Ejecutar la aplicación
+   - Una vez instaladas las dependencias, ejecuta:
+     streamlit run app.py
+
+   - Esto abrirá automáticamente la aplicación en tu navegador por defecto (si no, copia la URL que aparece en la terminal, normalmente http://localhost:8501).
+
+7. ¡Listo!
+   Ya puedes empezar a usar Albert’s Beacon desde tu navegador.
